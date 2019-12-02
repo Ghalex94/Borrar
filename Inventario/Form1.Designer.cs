@@ -33,9 +33,10 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(229, 110);
+            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button1.Location = new System.Drawing.Point(118, 97);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(312, 328);
+            this.button1.Size = new System.Drawing.Size(423, 341);
             this.button1.TabIndex = 0;
             this.button1.Text = "Boton Reyman";
             this.button1.UseVisualStyleBackColor = true;
