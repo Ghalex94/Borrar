@@ -35,7 +35,7 @@
             // 
             this.button1.Location = new System.Drawing.Point(229, 110);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(312, 137);
+            this.button1.Size = new System.Drawing.Size(312, 328);
             this.button1.TabIndex = 0;
             this.button1.Text = "Boton Reyman";
             this.button1.UseVisualStyleBackColor = true;
